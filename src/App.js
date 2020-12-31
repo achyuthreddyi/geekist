@@ -1,5 +1,7 @@
-function App () {
-  return <div className='App'></div>
-}
+import React from 'react'
 
-export default App
+export const App = () => (
+  <div>
+    <h1>happy new year 12fgf</h1>
+  </div>
+)
